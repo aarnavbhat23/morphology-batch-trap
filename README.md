@@ -1,3 +1,11 @@
+# Moved to bio-evidence
+
+This tool is maintained as [`bio_evidence.batch_shortcuts`](https://github.com/aarnavbhat23/bio-evidence/blob/main/src/bio_evidence/batch_shortcuts.py) in [bio-evidence](https://github.com/aarnavbhat23/bio-evidence). The package has one API, one test suite and worked public-data cases.
+
+This repository is archived to keep prior commits and results inspectable. Its original standalone documentation is below.
+
+---
+
 # Morphology Batch Trap
 
 Contrast within-batch and cross-batch replicate retrieval and test whether embeddings expose batch identity.
